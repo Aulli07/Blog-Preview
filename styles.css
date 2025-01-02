@@ -58,7 +58,7 @@ body{
 }
 
 .subtitle{
-    font-size: 16px;
+    font-size: 14.8px;
     font-family: "Figtree", sans-serif;
     color: grey;
 }
@@ -70,14 +70,14 @@ body{
 }
 
 .blog-preview-user img{
-    width: 43px;
-    height: 43px;
+    width: 47px;
+    height: 47px;
     border-radius: 100%;
     object-fit: cover;;
 }
 
 .blog-preview-user span{
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 800;
     font-family: "Figtree", sans-serif;
     margin-left: 10px;
