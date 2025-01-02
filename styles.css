@@ -43,6 +43,7 @@ body{
     font-size: 13px;
     font-weight: 580;
     font-family: "Figtree", sans-serif;
+    margin-bottom: 5px;
 }
 
 .title{
@@ -51,7 +52,6 @@ body{
     font-family: "Figtree", sans-serif;
     display: block;
     cursor: pointer;
-    padding: 5px 0px;
 }
 
 .title:active{
@@ -59,7 +59,7 @@ body{
 }
 
 .subtitle{
-    font-size: 16.5px;
+    font-size: 17px;
     font-family: "Figtree", sans-serif;
     color: grey;
 }
