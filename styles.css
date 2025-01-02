@@ -59,9 +59,10 @@ body{
 }
 
 .subtitle{
-    font-size: 17px;
+    font-size: 15.8px;
     font-family: "Figtree", sans-serif;
     color: grey;
+    line-height: 18px;
 }
 
 .blog-preview-user{
